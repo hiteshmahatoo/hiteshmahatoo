@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hiteshmahatoo
-- 👀 I’m interested in coding, web development
+- 👀 I’m interested in coding, Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects based on web development.
 - 📫 How to reach me ... hiteshmahatoo4@gmail.com
