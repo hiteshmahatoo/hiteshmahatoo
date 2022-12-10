@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiteshmahatoo
+- 👋 Hi, I’m @hiteshmahatoo, Software Enginner Intern at Liferay
 - 👀 I’m interested in coding, Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects based on web development.
