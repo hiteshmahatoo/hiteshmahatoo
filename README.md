@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hiteshmahatoo.  
-- 👀 I’m interested in coding, Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects based on web development.
+- 👀 I’m interested in DevOps, Automation
+- 🌱 I’m currently learning Shell Scripting
+- 💞️ I’m looking to collaborate on projects based on Automation
 - 📫 How to reach me ... hiteshmahatoo4@gmail.com
 
 <!---
